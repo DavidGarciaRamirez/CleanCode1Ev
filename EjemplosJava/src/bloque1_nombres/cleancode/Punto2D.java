@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dam1garciaramirez_david_ej0501b10punto3d;
+package bloque1_nombres.cleancode;
 
 /**
  *

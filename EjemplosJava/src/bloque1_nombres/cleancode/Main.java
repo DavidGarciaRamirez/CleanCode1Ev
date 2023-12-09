@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dam1garciaramirez_david_ej0501b10punto3d;
+package bloque1_nombres.cleancode;
 
 /**
  *
  * @author user
  */
-public class DAM1GarciaRamirez_David_Ej0501b10Punto3D {
+public class Main {
     
     /**
      * @param args the command line arguments
