@@ -9,7 +9,7 @@ package bloque1_nombres.cleancode;
  *
  * @author user
  */
-public class Main {
+public class MainClass {
     
     /**
      * @param args the command line arguments
